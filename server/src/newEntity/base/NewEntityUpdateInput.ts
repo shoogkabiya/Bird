@@ -1,0 +1,2 @@
+class NewEntityUpdateInput {}
+export { NewEntityUpdateInput };
