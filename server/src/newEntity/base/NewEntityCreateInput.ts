@@ -1,0 +1,2 @@
+class NewEntityCreateInput {}
+export { NewEntityCreateInput };
